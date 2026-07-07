@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1764120923 source:c:\users\usuario\downloads\suptanques\suptanques\supdados.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"tanques-param.h"
+	"supdados.h"
+
+1764120923 c:\users\usuario\downloads\suptanques\suptanques\tanques-param.h
+
+1764120923 c:\users\usuario\downloads\suptanques\suptanques\supdados.h
+	<cstdint>
+
+1764984481 source:c:\users\usuario\downloads\suptanques\suptanques\supservidor.cpp
+	<iostream>
+	<algorithm>
+	<cstdint>
+	"supservidor.h"
+
+1764813384 c:\users\usuario\downloads\suptanques\suptanques\supservidor.h
+	"../MySocket/mysocket.h"
+	<string>
+	<list>
+	"tanques.h"
+	"supdados.h"
+
+1764120923 c:\users\usuario\downloads\suptanques\suptanques\tanques.h
+	<cstdint>
+	<ctime>
+	<thread>
+	<mutex>
+	"tanques-param.h"
+
+1764120923 source:c:\users\usuario\downloads\suptanques\suptanques\supservidor_main.cpp
+	<iostream>
+	<cmath>
+	"supservidor.h"
+
+1764120923 source:c:\users\usuario\downloads\suptanques\suptanques\tanques.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"tanques.h"
+	"supdados.h"
+
+1764378635 source:c:\users\usuario\downloads\suptanques\mysocket\mysocket.cpp
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
+1764378636 c:\users\usuario\downloads\suptanques\mysocket\mysocket.h
+	<cstdint>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
