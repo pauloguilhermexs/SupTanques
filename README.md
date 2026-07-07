@@ -4,9 +4,6 @@
 
 [cite_start]The project features a robust architecture, separating business and network communication logic from its user interfaces, offering two versions: a **Terminal (Console)** interface [cite: 70, 71] [cite_start]and a **Graphical User Interface (GUI)** built with the **Qt** framework[cite: 13].
 
-<p align="center">
-  <img src="scada_icon.png" alt="Supervisory Icon" width="100"/>
-</p>
 
 ## 🚀 Features
 
